@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mehmet6867! I'm from germany and am 15 years old!
+- 👀 I’m interested in game development and math :) I am also well in physic XD
+- 🌱 I’m currently learning Python, HTML, CSS, C#, C++ and Unreal Engine :)
